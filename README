@@ -1,1 +1,3 @@
 This is a simple android app that adds a button to Google Currents (under the share menu) to open the currently viewed article in a browser.
+
+Included keystore file to sign-in application and generate APK file (pwd: currents)
